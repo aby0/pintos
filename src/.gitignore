@@ -1,0 +1,37 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Build directories
+threads/build/*
+userprog/build/*
+vm/build/*
+filesys/build/*
+utils/pintos.*
+bochsout.txt
+bochsrc.txt
+build
+misc/bochsout.txt
+misc/bochsrc.txt
+threads/bochsout.txt
+threads/bochsrc.txt~
